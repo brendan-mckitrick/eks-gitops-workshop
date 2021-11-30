@@ -9,3 +9,5 @@ spec:
     tagSet:
     - key: application
       value: podinfo
+    - key: anothertag
+      value: test      
