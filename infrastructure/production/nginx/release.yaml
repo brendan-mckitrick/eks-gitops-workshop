@@ -4,6 +4,7 @@ metadata:
   name: nginx
 spec:
   releaseName: nginx-ingress-controller
+  targetNamespace: otto
   chart:
     spec:
       chart: nginx-ingress-controller
